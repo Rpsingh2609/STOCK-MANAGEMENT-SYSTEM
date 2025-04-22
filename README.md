@@ -59,8 +59,8 @@ By combining these data structures, the system ensures efficient, clean, and rel
 
  **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/stock-management-system.git
-   cd stock-management-system  
+   git clone https://github.com/Rpsingh2609/STOCK-MANAGEMENT-SYSTEM.git
+   cd STOCK-MANAGEMENT-SYSTEM
 
  ---
 
